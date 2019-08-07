@@ -1,4 +1,6 @@
-seven color name in a rainbow'
+seven color name in a rainbow'master
+indigo
+beige
 green 
 red
 yellow
