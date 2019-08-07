@@ -1,0 +1,7 @@
+color name in a rainbow'
+green 
+red
+yellow
+blue
+black
+white
